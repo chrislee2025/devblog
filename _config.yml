@@ -22,7 +22,7 @@ title: Chris' Tech Blog
 email: Clee3095@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog details all of the processes and thoughts that went into designing GoldenBrain,
-  as well as any other information. 
+  as well as any other information. The blog will be updated soon 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
