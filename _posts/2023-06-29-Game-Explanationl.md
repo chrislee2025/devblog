@@ -37,12 +37,15 @@ There's a catch.
 If a colored side on your cube rolls over a blank tile, the cube will "drop" its color onto the tile.
 
 *Before Rolling*
+
 ![imageofcubebeforerolling](https://res.cloudinary.com/dw2lty0io/image/upload/v1688201753/1_ej5vqg.png)
 
 *Rolling*
+
 ![imageofcubeontile](https://res.cloudinary.com/dw2lty0io/image/upload/v1688201753/2_kgwwda.png)
 
 *After Rolling*
+
 ![imageofcubeafterrolling](https://res.cloudinary.com/dw2lty0io/image/upload/v1688201753/3_bypgyn.png)
 
 You'll need to plan ahead and make sure not to make any mistakes.
@@ -54,9 +57,11 @@ If you manage to finish the cube, you can always challenge yourself. You can cho
 1. Tetrahedron - A triangular pyramid
 
 ![imageoftetrahedron](https://res.cloudinary.com/dw2lty0io/image/upload/v1688202028/1.1_wqluu1.png)
+
 2. Octahedron - A polyhedron with eight faces
 
 ![imageofoctahedron](https://res.cloudinary.com/dw2lty0io/image/upload/v1688202028/1.2_j3f2hg.png)
+
 3. Icosahedron - A polyhedron with 20 faces
 
 ![imageoficosahedron](https://res.cloudinary.com/dw2lty0io/image/upload/v1688202028/1.3_n4k4pl.png)
