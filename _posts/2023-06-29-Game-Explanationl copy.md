@@ -37,12 +37,15 @@ There's a catch.
 If a colored side on your cube rolls over a blank tile, the cube will "drop" its color onto the tile.
 
 *Before Rolling*
+
 ![imageofcubebeforerolling](https://res.cloudinary.com/dw2lty0io/image/upload/v1688201753/1_ej5vqg.png)
 
 *Rolling*
+
 ![imageofcubeontile](https://res.cloudinary.com/dw2lty0io/image/upload/v1688201753/2_kgwwda.png)
 
 *After Rolling*
+
 ![imageofcubeafterrolling](https://res.cloudinary.com/dw2lty0io/image/upload/v1688201753/3_bypgyn.png)
 
 You'll need to plan ahead and make sure not to make any mistakes.
