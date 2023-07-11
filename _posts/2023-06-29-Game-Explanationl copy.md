@@ -57,9 +57,11 @@ If you manage to finish the cube, you can always challenge yourself. You can cho
 1. Tetrahedron - A triangular pyramid
 
 ![imageoftetrahedron](https://res.cloudinary.com/dw2lty0io/image/upload/v1688202028/1.1_wqluu1.png)
+
 2. Octahedron - A polyhedron with eight faces
 
 ![imageofoctahedron](https://res.cloudinary.com/dw2lty0io/image/upload/v1688202028/1.2_j3f2hg.png)
+
 3. Icosahedron - A polyhedron with 20 faces
 
 ![imageoficosahedron](https://res.cloudinary.com/dw2lty0io/image/upload/v1688202028/1.3_n4k4pl.png)
