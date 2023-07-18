@@ -35,6 +35,7 @@ After collecting all our ideas together, we managed to come up with a game to be
 ![imageofoverview](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643782/Screenshot_4_ywimz3.png)
 
 And a summary of the main components of the game:
+
 ![imageofcomponents1](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/1_idf86t.png)
 
 ![imageofcomponents2](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/2_jmqrxb.png)
