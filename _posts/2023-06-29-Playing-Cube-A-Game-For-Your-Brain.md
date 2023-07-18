@@ -1,5 +1,5 @@
 ---
-title:  "Games for Your Brain"
+title:  "Playing Cube, A Game For Your Brain"
 date:   2023-07-01 20:10:29 +0900
 categories: development
 ---
