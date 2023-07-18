@@ -28,4 +28,15 @@ Once we understood who we were making our final product for, we started to ideat
 
 ![imageofshapes](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643192/shapes_qrk4a5.png)
 
-After collecting all our ideas together, we managed to come up with a game to begin planning and coding.
+After collecting all our ideas together, we managed to come up with a game to begin planning and coding. Here's a quick overview of what it will look like:
+
+![imageofoverview](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643782/Screenshot_4_ywimz3.png)
+
+And a summary of the main components of the game:
+![imageofcomponents1](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/1_idf86t.png)
+
+![imageofcomponents2](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/2_jmqrxb.png)
+
+![imageofcomponents3](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/3_n5v6w2.png)
+
+We'll now plan out a little bit more and then begin making the game.
