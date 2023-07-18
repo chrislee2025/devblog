@@ -21,9 +21,11 @@ Once we understood who we were making our final product for, we started to ideat
 1) A Mathematical 3x3 Game - A game where you have to get the end result specific to each row or column by adding three numbers in the same row or column.
 
 ![imageof3x3](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643192/3x3_o1insf.png)
+
 2) A Card Turning Game - A game where you have 30 cards (15 pairs) which are flipped face down and you have to make pairs as quickly as possible through memorization.
 
 ![imageofcards](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643192/cards_ajm2xq.png)
+
 3) A Shape Finding Game - A game where you are given a shape made up of smaller shapes and have to find the number of a specific shape in the given shape.
 
 ![imageofshapes](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643192/shapes_qrk4a5.png)
