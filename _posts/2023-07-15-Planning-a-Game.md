@@ -1,6 +1,6 @@
 ---
-title:  "Planning"
-date:   2023-07-10 20:10:29 +0900
+title:  "Planning a Game"
+date:   2023-07-15 20:10:29 +0900
 categories: development
 ---
 
