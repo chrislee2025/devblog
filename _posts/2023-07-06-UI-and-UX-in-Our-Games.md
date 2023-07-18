@@ -11,13 +11,19 @@ A UI is easier to explain. Basically, if a user is interacting with a service or
 Here are some photos of what a UI might look like:
 
 ![imagefofUI](https://res.cloudinary.com/dw2lty0io/image/upload/v1689641487/2ui_mnazvn.png)
+
 All of these places you can go and buttons you can press are part of the UI.
 
+
 ![imageofUI](https://res.cloudinary.com/dw2lty0io/image/upload/v1689641486/1ui_v3s3xx.png)
+
 In this game, the majority of the UI lies in the numbered buttons and the reset button.
 
+
 ![imageofUI2](https://res.cloudinary.com/dw2lty0io/image/upload/v1689641492/3ui_nqqqcl.png)
+
 And here, the UI is coded to show the squares and possible interactions with the user.
+
 
 So UI, in summary, is all of the interactive elements a user interacts with directly.
 
@@ -29,9 +35,11 @@ ChatGPT is a good example of a UX. ChatGPT understands your question, answers it
 
 ![imageofCG](https://res.cloudinary.com/dw2lty0io/image/upload/v1689641909/1ux_rrxenc.png)
 
+
 Another example would be in the game we're making.
 
 ![imageofgame](https://res.cloudinary.com/dw2lty0io/image/upload/v1689641910/2ux_jphgo3.png)
+
 
 When a user presses a square, the UX understands it needs to seamlessly flip the other squares, while also collecting data on stuff like touch speed to diagnose possible Alzheimer's disease.
 
