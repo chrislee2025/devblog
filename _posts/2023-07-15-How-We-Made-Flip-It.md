@@ -1,5 +1,5 @@
 ---
-title:  "Planning a Game"
+title:  "How We Made Flip It"
 date:   2023-07-15 20:10:29 +0900
 categories: development
 ---
@@ -41,5 +41,3 @@ And a summary of the main components of the game:
 ![imageofcomponents2](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/2_jmqrxb.png)
 
 ![imageofcomponents3](https://res.cloudinary.com/dw2lty0io/image/upload/v1689643780/3_n5v6w2.png)
-
-We'll now plan out a little bit more and then begin making the game.
